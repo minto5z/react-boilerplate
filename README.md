@@ -433,5 +433,3 @@ After setting up the boilerplate:
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
 - [React Query Docs](https://tanstack.com/query/latest)
 - [React Router Docs](https://reactrouter.com/)
-
-Built with ❤️ for modern web development.
